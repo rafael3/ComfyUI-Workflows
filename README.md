@@ -9,6 +9,20 @@ Visual diagrams and prompt recipes
 Advanced configurations including ControlNet, LoRA, SDXL, and more
 Troubleshooting, optimisation, and real-time tips
 
+<div style="text-align:center;">
+  <a href="https://www.amazon.com/dp/YOUR-ASIN" title="Buy the ComfyUI Workflows Book on Amazon">
+    <img src="https://github.com/user-attachments/assets/7e5d0a30-bcf3-411e-aa45-c799311132e8"
+         alt="ComfyUI Workflows Book – Complete Guide to Comfy Workflows for Stable Diffusion users"
+         title="ComfyUI Workflows Book – Learn and Buy on Amazon"
+         width="1024" height="1024"
+         style="border-radius:12px; box-shadow:0 4px 15px rgba(0,0,0,0.15); max-width:100%; height:auto;">
+  </a>
+  <p>
+    <strong>ComfyUI Workflows Book</strong> — the first comprehensive English guide dedicated to <em>Comfy Workflows</em>.  
+    Learn step-by-step how to build AI image workflows with <strong>ComfyUI</strong>, featuring over 100 practical examples.  
+    👉 <a href="https://www.amazon.com/dp/YOUR-ASIN" target="_blank" rel="noopener">Order your copy on Amazon</a>
+  </p>
+</div>
 
 ##  Workflows Included in the ComfyUI Handbook
 
