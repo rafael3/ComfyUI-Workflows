@@ -91,6 +91,36 @@ Troubleshooting, optimisation, and real-time tips
 
 ---
 
+<!--  START: ComfyUI Workflows Book Promo Image Block -->
+<section id="comfyui-workflows-visual-guide" style="text-align:center; margin: 40px 0;">
+  <a href="https://www.amazon.com/dp/YOUR-ASIN" 
+     title="Buy the ComfyUI Workflows Book – Learn AI workflow design step by step">
+    <img src="https://github.com/user-attachments/assets/681e3baa-f4bb-468b-ac21-d5a9f47b7d70"
+         alt="ComfyUI Workflows Visual Guide – Practical AI workflow book for Stable Diffusion and ComfyUI users"
+         title="ComfyUI Workflows Visual Guide – Buy on Amazon"
+         width="512" height="512"
+         style="border-radius:14px; box-shadow:0 5px 18px rgba(0,0,0,0.15); max-width:100%; height:auto; border:1px solid #eee;">
+  </a>
+
+  <h2 style="margin-top:16px;">ComfyUI Workflows – The Visual Guide to AI Creativity</h2>
+  <p style="font-size:1.05em; max-width:800px; margin:auto; color:#333;">
+    Explore <strong>ComfyUI Workflows</strong>, the ultimate hands-on guide for <strong>AI artists</strong> and <strong>Stable Diffusion</strong> users.  
+    This visual book shows real <em>ComfyUI node setups</em>, workflow diagrams, and practical tips for mastering image generation.  
+    Perfect for <strong>beginners and experts</strong> alike.
+  </p>
+
+  <p style="margin-top:12px;">
+     <a href="https://www.amazon.com/dp/YOUR-ASIN" 
+          target="_blank" 
+          rel="noopener" 
+          style="font-weight:bold; color:#00c88c; text-decoration:none;">
+       Order your copy on Amazon
+    </a>
+  </p>
+</section>
+<!--  END: ComfyUI Workflows Book Promo Image Block -->
+
+
  **Like What You See? Learn Everything in the Official Guide**
 
 This repository is based on content from the **ComfyUI Handbook: AI Workflow Design**, the **first complete English-language guide** to mastering ComfyUI—from beginner workflows to advanced techniques, scripting, and real-time applications.
